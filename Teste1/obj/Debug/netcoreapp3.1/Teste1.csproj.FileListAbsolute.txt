@@ -1,0 +1,13 @@
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\bin\Debug\netcoreapp3.1\Teste1.exe
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\bin\Debug\netcoreapp3.1\Teste1.deps.json
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\bin\Debug\netcoreapp3.1\Teste1.runtimeconfig.json
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\bin\Debug\netcoreapp3.1\Teste1.runtimeconfig.dev.json
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\bin\Debug\netcoreapp3.1\Teste1.dll
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\bin\Debug\netcoreapp3.1\Teste1.pdb
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\obj\Debug\netcoreapp3.1\Teste1.csprojAssemblyReference.cache
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\obj\Debug\netcoreapp3.1\Teste1.AssemblyInfoInputs.cache
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\obj\Debug\netcoreapp3.1\Teste1.AssemblyInfo.cs
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\obj\Debug\netcoreapp3.1\Teste1.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\obj\Debug\netcoreapp3.1\Teste1.dll
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\obj\Debug\netcoreapp3.1\Teste1.pdb
+C:\Users\Carlos Diniz\source\repos\Testes\Teste1\obj\Debug\netcoreapp3.1\Teste1.genruntimeconfig.cache
